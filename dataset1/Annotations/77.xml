@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<annotation>
+		<folder>driving_annotation_dataset</folder>
+		<filename>77.jpg</filename>
+		<size>
+			<width>1300</width>
+			<height>958</height>
+			<depth>3</depth>
+		</size>
+		<object>
+			<name>fall</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>247</xmin>
+				<ymin>306</ymin>
+				<xmax>902</xmax>
+				<ymax>639</ymax>
+			</bndbox>
+		</object>
+	</annotation>

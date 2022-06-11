@@ -1,0 +1,28 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>fall-05-cam0-rgb-041.png</filename>
+	<path>/my-project-name/fall-05-cam0-rgb-041.png</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+
+	<object>
+		<name>stand</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>309</xmin>
+			<ymin>98</ymin>
+			<xmax>392</xmax>
+			<ymax>348</ymax>
+		</bndbox>
+	</object>
+
+
+</annotation>

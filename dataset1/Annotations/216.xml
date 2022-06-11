@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<annotation>
+		<folder>driving_annotation_dataset</folder>
+		<filename>216.jpg</filename>
+		<size>
+			<width>283</width>
+			<height>178</height>
+			<depth>3</depth>
+		</size>
+		<object>
+			<name>stand</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>94</xmin>
+				<ymin>50</ymin>
+				<xmax>177</xmax>
+				<ymax>176</ymax>
+			</bndbox>
+		</object>
+	</annotation>

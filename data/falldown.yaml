@@ -1,0 +1,5 @@
+train: /root/yolov5/dataset1/train.txt
+val: /root/yolov5/dataset1/val.txt
+
+nc: 2
+names: ['fall','stand']
