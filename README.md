@@ -7,15 +7,8 @@ conda create cudnn=7.6
 pip install -r requirements.txt
 
 3、整理数据集，成如下结构
-.dataset1/
-├── Annotations
-│   ├── 1.xml
-│   ├── 2.xml
-│   └── 3.xml
-├── images
-│   ├── 1.jpg
-│   ├── 2.jpg
-│   └── 3.jpg
+![图片](https://user-images.githubusercontent.com/82815279/173191506-3a7d4c1c-241d-4fdf-9a33-9315e3bf35dc.png)
+
 
 4、划分训练集、验证集
 python split_train_val.py –xml_path dataset1/Annotations –txt_path datasets1/ImageSets/Main
