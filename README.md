@@ -1,9 +1,13 @@
 1、创建环境：
+
 conda create -n falldetection python=3.7.0
+
 conda create cudatoolkit=10.0
+
 conda create cudnn=7.6
 
 2、安装需求库
+
 pip install -r requirements.txt
 
 3、整理数据集，成如下结构
